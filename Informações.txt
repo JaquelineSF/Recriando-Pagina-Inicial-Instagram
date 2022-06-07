@@ -1,0 +1,1 @@
+Conforme solicitado, foi feito o projeto de recriação da tela inicial do Instagram utiliazando HTML5 e Flexbox em CSS3.
